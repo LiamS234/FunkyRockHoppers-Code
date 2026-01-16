@@ -20,4 +20,4 @@
 - These are excerpted scripts to show design/structure; not a full Unity project.
 
 ## Contact
-Liam Smith — liam.smith234@gmail.com
+Liam Smith — liam.smith234@gmail.com - https://liamsmith234.itch.io/
