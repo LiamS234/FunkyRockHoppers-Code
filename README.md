@@ -5,11 +5,11 @@
 **Unity:** 2022.3.13f1  
 **What’s here:** A small selection of key C# scripts demonstrating core gameplay, infinite procedural platform generation, and environment placement/cleanup.
 
-> Note: these three scripts are from an earlier stage of my development work. I’ve intentionally left them as-is to show my learning curve; more refined systems appear in later projects included in my portfolio (for example, the Random Prison Map Generator).
+> Note: these three scripts are from an earlier stage of my development work. I’ve intentionally left them as-is to show my learning curve; more refined systems appear in the Random Prison Map Generator project.
 
 ## Play the game
 - Play in browser (itch.io): https://liamsmith234.itch.io/funky-rock-hoppers  
-- Steam page: https://store.steampowered.com/app/2972330/HFH/  
+- Steam page: https://store.steampowered.com/app/2972330/Funky_Rock_Hoppers/
 - Trailer: On Steam Page
 
 ## Included files (recommended for reviewers)
